@@ -15,21 +15,18 @@ const AboutMe = () => {
             <b>About Me</b>
           </h2>
           <p>
-            Once upon a time, there was a kid who had big dreams and wanted
-            everything; then, he got shocked when he tried powering a small toy
-            DC motor from the outlet and found his real destiny. Hi! My name is
-            Alberto Tam Yong.{' '}
-          </p>
-          <p>
-            I am an Electrical Engineer at Applied Medical on the Technology and
-            Development, Electrical, team. I received my B.S. in Electrical
-            Engineering at the University of California, Riverside, in 2016, and
-            have several project experience.{' '}
-          </p>
-          <p>
-            I have an interest on embedded systems, PCB design, robotics,
-            research and development, product development, and electronics
-            design. I enjoy working in teams and in challenging projects.
+            I portray myself as a computer science professional with a Master's
+            degree from California State University-Long Beach, my love for
+            computer science was a gradual journey for me and it all started
+            with writing a code in C almost a decade ago!! From there, learning
+            and working on some major facets of computer science subject, not
+            only helped me to learn but paved a path for my dream to become
+            subject matter expert in that field. I am passionate about coding
+            and I love to learn different technologies especially web UI
+            development. My expertise and knowledge made me confirmable to
+            flourish best in the area of web development and front-end
+            development roles. In my free time, you can find me to do painting,
+            playing badminton and at the beach. 
           </p>
         </div>
       </div>
