@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/NG_Portfolio/static/css/main.eb014cc9.chunk.css",
-    "main.js": "/NG_Portfolio/static/js/main.720b86c4.chunk.js",
-    "main.js.map": "/NG_Portfolio/static/js/main.720b86c4.chunk.js.map",
+    "main.js": "/NG_Portfolio/static/js/main.b7894ed2.chunk.js",
+    "main.js.map": "/NG_Portfolio/static/js/main.b7894ed2.chunk.js.map",
     "runtime-main.js": "/NG_Portfolio/static/js/runtime-main.1c053675.js",
     "runtime-main.js.map": "/NG_Portfolio/static/js/runtime-main.1c053675.js.map",
     "static/css/2.301e199a.chunk.css": "/NG_Portfolio/static/css/2.301e199a.chunk.css",
@@ -24,6 +24,6 @@
     "static/css/2.301e199a.chunk.css",
     "static/js/2.967f78bb.chunk.js",
     "static/css/main.eb014cc9.chunk.css",
-    "static/js/main.720b86c4.chunk.js"
+    "static/js/main.b7894ed2.chunk.js"
   ]
 }
