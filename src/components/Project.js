@@ -41,6 +41,13 @@ const Project = () => {
                   >
                     More Details...
                   </a>
+                  <br />
+                  <a
+                    className="moreDetail"
+                    href="https://nayna-gajera.github.io/Task_Management_App/"
+                  >
+                    Click here to visit the website...
+                  </a>
                 </b>
               </h5>
               <br />
@@ -77,6 +84,13 @@ const Project = () => {
                     href="https://github.com/Nayna-Gajera/COVID19_Tracker"
                   >
                     More Details...
+                  </a>
+                  <br />
+                  <a
+                    className="moreDetail"
+                    href="https://nayna-gajera.github.io/COVID19_Tracker/"
+                  >
+                    Click here to visit the website...
                   </a>
                 </b>
               </h5>
@@ -121,7 +135,7 @@ const Project = () => {
                     className="moreDetail"
                     href="https://arcane-eyrie-91163.herokuapp.com/"
                   >
-                    Click here to visit website...
+                    Click here to visit the website...
                   </a>
                 </b>
               </h5>
@@ -155,6 +169,13 @@ const Project = () => {
                     href="https://github.com/Nayna-Gajera/React_Weather_Application"
                   >
                     More Details...
+                  </a>
+                  <br />
+                  <a
+                    className="moreDetail"
+                    href="https://nayna-gajera.github.io/React_Weather_Application/"
+                  >
+                    Click here to visit the website...
                   </a>
                 </b>
               </h5>
@@ -192,6 +213,13 @@ const Project = () => {
                     href="https://github.com/Nayna-Gajera/React_Color_Project"
                   >
                     More Details...
+                  </a>
+                  <br />
+                  <a
+                    className="moreDetail"
+                    href="https://nayna-gajera.github.io/React_Color_Project/"
+                  >
+                    Click here to visit the website...
                   </a>
                 </b>
               </h5>
