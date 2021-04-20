@@ -121,7 +121,7 @@ const Project = () => {
                     className="moreDetail"
                     href="https://arcane-eyrie-91163.herokuapp.com/"
                   >
-                    Click here to see website
+                    Click here to visit website...
                   </a>
                 </b>
               </h5>
@@ -137,16 +137,14 @@ const Project = () => {
               <p>
                 <ul>
                   <li>
-                    Created a React project to add, edit or delete an object
-                    within task management application.
+                    Developed project which is going to fetch the live data from
+                    the API using Async/Await syntax and going to display
+                    temperature, humidity.
                   </li>
+
                   <li>
-                    Utilized React hooks, useEffect, useState and useRef to
-                    implement required functionalities.
-                  </li>
-                  <li>
-                    Within application, user can add and edit the task, create a
-                    custom edit input and marked the task as completed.
+                    User can select the city and country name to get temperatur,
+                    umidity for that perticular city.
                   </li>
                 </ul>
               </p>
