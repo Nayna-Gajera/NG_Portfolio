@@ -121,7 +121,7 @@ const Project = () => {
                     className="moreDetail"
                     href="https://arcane-eyrie-91163.herokuapp.com/"
                   >
-                    Click here to see website
+                    Click here to visit the website..
                   </a>
                 </b>
               </h5>
